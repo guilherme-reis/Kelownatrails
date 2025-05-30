@@ -1,8 +1,8 @@
 {
   "projects": {
     "default": "devops-proj-production-bcfd9",
-    "dev": "devops-proj-testing",
-    "staging": "devops-proj-staging",
-    "production": "devops-proj-production-bcfd9"
+    "dev": "devops-proj-testing-3681c",
+    "staging": "devops-proj-staging-c64a5",
+    "production": "devops-proj-production-b-4491c"
   }
 }
